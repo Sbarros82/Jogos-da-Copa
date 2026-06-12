@@ -1,0 +1,6 @@
+{
+  "name": "Copa do Mundo 2026",
+  "description": "Resultados em tempo real, tabelas de classificação e estatísticas detalhadas da Copa do Mundo FIFA de 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
